@@ -28,8 +28,6 @@ The model detects the following classes:
 ---
 
 ## Repository Structure
-
-deployment/
  ├── network.rpk
  ├── labels.txt
  └── README.md
